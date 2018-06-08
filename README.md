@@ -12,7 +12,7 @@ It is a two-step process, consisting of a learning step and a classification ste
 Regression outputs are continuous numbers, they are ordered.
 
 
-## Algorithms
+## Algorithms for classification
 * K-Nearest Neighbors
 * Naive Bayes
 * Support Vector Machine
